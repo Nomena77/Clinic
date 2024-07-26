@@ -1,0 +1,12 @@
+.title {
+    font-size: 4rem;
+    font-weight: 800;
+    color: rgb(156, 58, 140);
+}
+
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
